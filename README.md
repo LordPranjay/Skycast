@@ -1,8 +1,19 @@
-# React + Vite
+# SkyCast
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SkyCast is a weather app built using React that provides real-time weather updates, hourly and daily forecasts, and local time for any selected location. The app uses the OpenWeatherMap API to fetch weather data.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Real-time Weather Updates:** Get current weather conditions for any location.
+- **Hourly and Daily Forecasts:** View detailed hourly and daily weather forecasts.
+- **Comprehensive Weather Details:** Information includes temperature, max/min temperatures, humidity, real feel, sunrise, sunset, and more.
+- **Local Time Display:** Shows the local time at the selected location.
+- **User-Friendly Input:** Quick links for popular cities, a text box for searching any city, and a current location-based search option.
+
+## Technologies Used
+
+- **Frontend:** JavaScript, React, Tailwind CSS
+- **Date/Time Library:** Luxon
+- **Icons:** React Icons
+- **Notifications:** React-Toastify
+- **API:** OpenWeatherMap
