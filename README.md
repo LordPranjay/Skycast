@@ -17,3 +17,6 @@ SkyCast is a weather app built using React that provides real-time weather updat
 - **Icons:** React Icons
 - **Notifications:** React-Toastify
 - **API:** OpenWeatherMap
+
+## Live Demo
+Check out the live demo of SkyCast here - https://skycast-bice.vercel.app/
